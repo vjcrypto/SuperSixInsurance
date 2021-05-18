@@ -14,7 +14,7 @@
 # The `docs/*` pattern will match files like
 # `docs/getting-started.md` but not further nested files like
 # `docs/build-app/troubleshooting.md`.
-/api/poi/  @vjcrypto
-/api/trips/ @nikithagutha
-/api/userprofile/ @77vetter420
-/api/user-java/ @SukanyaRScholar
+/apis/poi/  @vjcrypto
+/apis/trips/ @nikithagutha
+/apis/userprofile/ @77vetter420
+/apis/user-java/ @SukanyaRScholar
